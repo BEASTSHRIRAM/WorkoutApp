@@ -1,6 +1,8 @@
 # Personal Fitness Tool
 
 A fitness application that combines the power of Vector Databases (Astra DB) with AI capabilities using Langflow and Datastax, featuring RAG for contextual workout recommendations.
+As a have my expertise in spring boot but as this era I had knowledge of python , So learned new things like Langflow,Streamlit,Vector DB,RAG,etc.
+
 
 ## Features
 
